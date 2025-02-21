@@ -6,10 +6,10 @@ class ToDo:
     def __init__(self, page: ft.Page):
         self.page = page
         self.page.bgcolor = ft.colors.BLACK
-        self.page.window.width = 350
-        self.page.window.height = 450
-        self.page.window.resizable = False
-        self.page.window.always_on_top = True
+        self.page.window.width = 680
+        self.page.window.height = 480
+        self.page.window.resizable = True
+        self.page.window.always_on_top = False
         self.page.title = 'ToDo App'
         self.task = ''
         self.view = 'all'
