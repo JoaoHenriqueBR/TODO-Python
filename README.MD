@@ -1,4 +1,6 @@
-## TODO App
+## Aplicativo de Tarefas ToDo
+
+### Menu do App
 
 ![Menu do App ToDo](https://github.com/JoaoHenriqueBR/TODO-Python/blob/5ce2b07f68d5d6e533278d0e593eb6e9468ab8d9/img/menu_todo.png)
 
